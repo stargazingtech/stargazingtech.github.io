@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
+title: "What is Very Long Baseline Interferometry (VLBI)?"
 categories: misc
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
+title: "What Is Global Positioning System (GPS)?"
+categories: gnss
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Stephen Wang
 meta: "Springfield"
 ---
 

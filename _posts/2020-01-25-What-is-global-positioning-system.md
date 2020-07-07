@@ -7,7 +7,11 @@ author:
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+The Global Positioning System (GPS), originally NAVSTAR GPS, is a satellite-based radionavigation system owned by the United States government and operated by the United States Space Force. It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites. Obstacles such as mountains and buildings block the relatively weak GPS signals.
+
+The GPS project was started by the U.S. Department of Defense in 1973, with the first prototype spacecraft launched in 1978 and the full constellation of 24 satellites operational in 1993. Originally limited to use by the United States military, civilian use was allowed from the 1980s following an executive order from President Ronald Reagan. Advances in technology and new demands on the existing system have now led to efforts to modernize the GPS and implement the next generation of GPS Block IIIA satellites and Next Generation Operational Control System (OCX). Announcements from Vice President Al Gore and the White House in 1998 initiated these changes. In 2000, the U.S. Congress authorized the modernization effort, GPS III. 
+
+Several countries have developed or are in the process of setting up other global or regional satellite navigation systems. The Russian Global Navigation Satellite System (GLONASS) was developed contemporaneously with GPS, but suffered from incomplete coverage of the globe until the mid-2000s. GLONASS can be added to GPS devices, making more satellites available and enabling positions to be fixed more quickly and accurately, to within two meters (6.6 ft). China's BeiDou Navigation Satellite System began global services in 2018, and finished its full deployment in 2020. There are also the European Union Galileo positioning system, and India's NavIC. Japan's Quasi-Zenith Satellite System (QZSS) is a GNSS satellite-based augmentation system to enhance GNSS's accuracy in Asia-Oceania, with satellite navigation independent of GPS scheduled for 2023.
 
 ## Some great heading (h2)
 

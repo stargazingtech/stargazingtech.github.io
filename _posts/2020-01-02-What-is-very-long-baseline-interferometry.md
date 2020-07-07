@@ -2,6 +2,8 @@
 layout: post
 title: "What Is Very Long Baseline Interferometry (VLBI)?"
 categories: vlbi
+author:
+- Stephen Wang
 ---
 Very-long-baseline interferometry (VLBI) is a type of astronomical interferometry used in radio astronomy. In VLBI a signal from an astronomical radio source, such as a quasar, is collected at multiple radio telescopes on Earth or space. The distance between the radio telescopes is then calculated using the time difference between the arrivals of the radio signal at different telescopes. This allows observations of an object that are made simultaneously by many radio telescopes to be combined, emulating a telescope with a size equal to the maximum separation between the telescopes.
 
